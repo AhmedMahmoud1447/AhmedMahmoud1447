@@ -1,16 +1,67 @@
-## Hi there 👋
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
-<!--
-**AhmedMahmoud1447/AhmedMahmoud1447** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h1 align="left">Hey !  What's up?</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="left">My name is Ahmed Mahmoud and I'm a Java /Spring Boot Back-end developer with interest in clean code and deep concepts in technology.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">- Graduated from Arab Open University in the major of Computer Science.<br>- Backend Developer using Java and Spring Boot !</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="63" alt="java logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="63" alt="spring logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="63" alt="intellij logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=maven" height="63" alt="apachemaven logo"  />
+</div>
+
+###
+
+<h3 align="left">LinkedIn:</h3>
+
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/ahmad-mahmoud5" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="89" height="59" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">Currently working on learning:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="71" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="71" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="71" alt="apachekafka logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="71" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="71" alt="kotlin logo"  />
+</div>
+
+###
