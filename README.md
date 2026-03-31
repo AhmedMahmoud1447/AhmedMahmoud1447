@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">- Graduated from Arab Open University in the major of Computer Science.<br>- Backend Developer using Java and Spring Boot !</p>
+<p align="left"> Backend Developer using Java and Spring Boot !</p>
 
 ###
 
