@@ -47,21 +47,3 @@
 </div>
 
 ###
-
-<h2 align="left">Currently working on learning:</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="71" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="71" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="71" alt="apachekafka logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="71" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="71" alt="kotlin logo"  />
-</div>
-
-###
